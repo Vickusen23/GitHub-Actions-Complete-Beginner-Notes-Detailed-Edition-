@@ -568,7 +568,7 @@ it would show an empty directory.
 
 ## 20. `run` vs `uses` — the single most important distinction
 
-**`run`** = execute a **shell command** yourself.
+**`run`** = execute a **shell command** you wrote yourself.
 
 ```yaml
 - name: Show Git version
